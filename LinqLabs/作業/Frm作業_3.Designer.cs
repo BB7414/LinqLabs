@@ -123,15 +123,15 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(358, 30);
+            this.label4.Location = new System.Drawing.Point(352, 30);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(40, 15);
+            this.label4.Size = new System.Drawing.Size(67, 15);
             this.label4.TabIndex = 159;
-            this.label4.Text = "Name";
+            this.label4.Text = "學生人數";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(405, 30);
+            this.textBox1.Location = new System.Drawing.Point(423, 27);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(222, 25);
             this.textBox1.TabIndex = 160;
